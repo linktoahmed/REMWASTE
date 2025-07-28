@@ -37,7 +37,7 @@ jobs:
 
       - name: Run Postman API tests and generate HTML report
         run: |
-          newman run remwaste/api/todo_postman_collection.json \
+          newman run api/todo_postman_collection.json \
             -r cli,html \
             --reporter-html-export postman-report.html
 
