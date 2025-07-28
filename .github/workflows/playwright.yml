@@ -1,6 +1,6 @@
 name: Playwright Tests
-description: Run Playwright and Postman API tests with HTML report generation
-author: Ahmed Ur Rehman(linktoahmed@gmail.com)
+#description: Run Playwright and Postman API tests with HTML report generation
+#author: Ahmed Ur Rehman(linktoahmed@gmail.com)
 
 on:
   schedule:
