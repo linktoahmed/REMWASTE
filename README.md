@@ -84,3 +84,6 @@ Ahmed Ur Rehman
 Email: linktoahmed@gmail.com
 
 Thank you for reviewing this automation project!
+
+**Just a quick update — the UI of the app has changed since I added the test cases, and some tests are now failing due to those updates. A major change is that completed tasks can no longer be deleted, which breaks part of the flow and causes the full test suite to fail.**
+
